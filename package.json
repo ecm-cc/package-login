@@ -1,0 +1,14 @@
+{
+  "name": "@ablegroup/login",
+  "version": "1.0.0",
+  "description": "This package performs a login, based on the host and a given API-Key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Strutz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
